@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "671829490528",
+    "firebase_url": "https://speedpundit.firebaseio.com",
+    "project_id": "speedpundit",
+    "storage_bucket": "speedpundit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671829490528:android:0d8267edd1eb062fe3fc05",
+        "android_client_info": {
+          "package_name": "com.here.android.speedpundit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671829490528-h9l65opub1i7e3ggnnq1vpfidqe5vk91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs1Se3_u7zk_KXZE_BBMGy5n40_ljQB-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671829490528-h9l65opub1i7e3ggnnq1vpfidqe5vk91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
